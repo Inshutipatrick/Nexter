@@ -1,2 +1,30 @@
 # Nexter
-this is my first project during my studies 
+
+## Description
+A simple and responsive Nexter website is my first project during my studies built with HTML and CSS. This project showcases my work and skills as a web developer. 
+
+## Features
+- Responsive design for mobile and desktop
+- Portfolio section with project thumbnails
+- Contact form for reaching out
+
+##**Installation**
+1. Clone the repository
+```bash
+git clone [https://github.com/Inshutipatrick/Nexter.git]
+2. Navigate to the projet directory
+```bash
+cd [project directory]
+3. Install dependencies
+```bash
+npm install
+
+##**Usage**
+run the project by using the folling command:npm start
+
+##**Technologies used**
+HTML: Structure of the web pages.
+CSS: Styling of the web pages .
+
+##**Contact**
+Created by:Inshuti Abed Patrick - email:nshtptrck@gmail.com
