@@ -12,10 +12,7 @@ A simple and responsive Nexter website is my first project during my studies bui
 1. Clone the repository
 ```bash
 git clone [https://github.com/Inshutipatrick/Nexter.git]
-2. Navigate to the projet directory
-```bash
-cd [project directory]
-3. Install dependencies
+2. Install dependencies
 ```bash
 npm install
 
